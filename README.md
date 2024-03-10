@@ -9,4 +9,5 @@ to add the connections we can add mpDraw.draw_landmarks(frames,handlms,mpHands.H
 
 
 To add the connections we can add mpDraw.draw_landmarks(frames,handlms,mpHands.HAND_CONNECTIONS)
-![image](https://github.com/tarunaditya91/Advanced-Computer-Vision-with-Python/assets/113850656/57bb10db-677f-493a-9d56-ff44c08e918b)
+![image](https://github.com/tarunaditya91/Advanced-Computer-Vision-with-Python/assets/113850656/13f15d76-64e1-4375-b017-3539ad37bd30)
+
